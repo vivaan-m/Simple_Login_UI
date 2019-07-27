@@ -83,7 +83,6 @@ class _SimpleLoginUIState extends State<SimpleLoginUI> {
                 SizedBox(height: 40,),
               ],
             ),
-
           ],
         ),
       ),
